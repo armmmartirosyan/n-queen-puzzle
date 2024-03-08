@@ -1,4 +1,4 @@
-// The N must be small then 28
+// The N must be small then 14
 
 const N = 8;
 const QUEEN_BOX = 1;
